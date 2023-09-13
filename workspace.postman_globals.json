@@ -1,0 +1,21 @@
+{
+	"id": "94f63dff-714b-4662-85a5-91ae1be78a97",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://dummy.restapiexample.com",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-08-24T05:05:28.318Z",
+	"_postman_exported_using": "Postman/10.17.0"
+}
